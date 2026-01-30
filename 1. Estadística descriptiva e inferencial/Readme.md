@@ -1,6 +1,6 @@
 # Unidad 1. Estadística descriptiva e inferencial
 
-Ingresa a tu cuenta institucional de Google colab desde [http://colab.research.google.com/] (http://colab.research.google.com/) y crea un notebook.
+Ingresa a tu cuenta institucional de Google colab desde [este enlace] (http://colab.research.google.com/) y crea un notebook.
 
 Selecciona el menú *Entorno de Ejecución* como se muestra en la imagen:
 
